@@ -1,2 +1,1 @@
-# .github
-Metadata for the Support and Care GitHub space
+# Support and Care by Open Elements
